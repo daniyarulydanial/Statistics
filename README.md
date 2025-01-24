@@ -1,3 +1,3 @@
-# Statistics-Optimization
+# Statistics
 
-Here you can find my/group works on some tasks related to statistics and optimization mainly using Python. 
+Here you can find my work on some statistics-related tasks using Python. 
